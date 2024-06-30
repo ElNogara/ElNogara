@@ -11,7 +11,7 @@
 - 📦 **Metodologias Ágeis**: Realização de tickets de desenvolvimento seguindo a metodologia ágil.
 - 🌐 **WordPress/WooCommerce**: Desenvolvimento e implementação de projetos e páginas institucionais.
 
-💼 [LinkedIn]([https://www.linkedin.com/in/seulinkedin](https://www.linkedin.com/in/wellington-nogara-921a27165/))
+💼 [LinkedIn](https://www.linkedin.com/in/wellington-nogara-921a27165/)
 
 ---
 
