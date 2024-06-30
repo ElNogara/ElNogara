@@ -1,6 +1,6 @@
 # Wellington Nogara
 
-![image](https://github.com/ElNogara/ElNogara/assets/50090354/9a54e5ff-03fa-4556-a0bf-b0c25c9fdb66)
+<img src="https://github.com/ElNogara/ElNogara/assets/50090354/9a54e5ff-03fa-4556-a0bf-b0c25c9fdb66" alt="Wellington Nogara" style="border-radius: 50%;">
 
 👋 Opa, aqui é o Nogara!
 
